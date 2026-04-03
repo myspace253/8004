@@ -1,0 +1,153 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/workspaces/8004/contracts/ERC8004Core.sol": {
+      "lastModificationDate": 1775233146978,
+      "contentHash": "72dd185484d35abf17f8b7adee9ecda8",
+      "sourceName": "contracts/ERC8004Core.sol",
+      "solcConfig": {
+        "version": "0.8.24",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.24"
+      ],
+      "artifacts": [
+        "ERC8004Core",
+        "IERC8004Token",
+        "IServiceNFT"
+      ]
+    },
+    "/workspaces/8004/contracts/ERC8004ServiceNFT.sol": {
+      "lastModificationDate": 1775233147788,
+      "contentHash": "ed810f4e687ff6b4bcbd645ffc27357f",
+      "sourceName": "contracts/ERC8004ServiceNFT.sol",
+      "solcConfig": {
+        "version": "0.8.24",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.24"
+      ],
+      "artifacts": [
+        "ERC8004ServiceNFT",
+        "IERC721Receiver"
+      ]
+    },
+    "/workspaces/8004/contracts/ERC8004Token.sol": {
+      "lastModificationDate": 1775233148703,
+      "contentHash": "b9815657845230a725af96ec23ef1c60",
+      "sourceName": "contracts/ERC8004Token.sol",
+      "solcConfig": {
+        "version": "0.8.24",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.24"
+      ],
+      "artifacts": [
+        "ERC8004Token"
+      ]
+    },
+    "/workspaces/8004/contracts/SecureVault.sol": {
+      "lastModificationDate": 1775233149085,
+      "contentHash": "41c7fc87a92a205fc36c271b7abb76c6",
+      "sourceName": "contracts/SecureVault.sol",
+      "solcConfig": {
+        "version": "0.8.24",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.24"
+      ],
+      "artifacts": [
+        "IERC20",
+        "SecureVault"
+      ]
+    }
+  }
+}
